@@ -1,3 +1,9 @@
+Personal adaption to get the original project running on my PI with a ws2801 attached. ws2801 code was copied from https://github.com/kevkid/led_strip applying a small bugfix.
+
+Thanks for your work, guys!
+
+---
+
 # Audio Reactive LED Strip
 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi.
 
